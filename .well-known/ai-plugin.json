@@ -2,7 +2,7 @@
   "schema_version": "v1",
   "name_for_model": "DocGPT",
   "name_for_human": "Document GPT",
-  "description_for_model": "Plugin for searching through the user's documents (such as files, code, and more) to find answers to questions and retrieve relevant information. Use it whenever a user asks something that might be found in their personal information.",
+  "description_for_model": "Plugin for searching through the openai documentation (such as information, code, and more) to find answers to questions and retrieve relevant information. Use it whenever a user asks something that might be found in their personal information.",
   "description_for_human": "Search through your documents.",
   "auth": {
     "type": "user_http",
